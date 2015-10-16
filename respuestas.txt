@@ -1,1 +1,3 @@
 Respuestas a las preguntas de la pr´actica 3
+
+¿Cu´al es el prop´osito de trabajar con m´utliples ramas? La de poder llevar lineas independientes de desarrollo.
